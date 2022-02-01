@@ -4,8 +4,5 @@ Repositorio para el [curso](https://platzi.com/clases/basico-javascript/) de [Pl
 Capítulos que se siguieron en el curso:
 * Introducción a JavaScript
 * Bases de JavaScript
-* Condicionales
-* Arrays
-* Loops
-* Objects
-* Métodos de Arrays
+* Condicionales, Arrays y Loops
+* Objects y Métodos de Arrays
